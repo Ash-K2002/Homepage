@@ -1,0 +1,78 @@
+[
+    {
+        "name":"Weather-forecast",
+        "links":[{
+                    "icon":"./resources/icons/open-in-new.png",       
+                    "link":"https://ash-k2002.github.io/weather-forecast/"
+                },
+                 {
+                    "iconfont":true,
+                    "class":"devicon-github-original",
+                    "link":"https://github.com/Ash-K2002/weather-forecast"
+                }
+                ],
+        "description":"A weather forecast app using vanilla js, html and css",
+        "icon":"./resources/images/screenshots/weather-forecast.png"
+    },
+    {
+        "name":"Project2",
+        "links":[{
+            "icon":"./resources/icons/open-in-new.png",       
+            "link":"#"
+        },
+         {
+            "iconfont":true,
+            "class":"devicon-github-original",
+            "link":"#"
+        }
+        ],
+        "description":"This is the second project",
+        "icon":""
+    },
+    {
+        "name":"Project3",
+        "links":[{
+            "icon":"./resources/icons/open-in-new.png",       
+            "link":"#"
+        },
+         {
+            "iconfont":true,
+            "class":"devicon-github-original",
+            "link":"#"
+        }
+        ],
+        "description":"This is the third project",
+        "icon":""
+    },
+    {
+        "name":"Project4",
+        "links":[{
+            "icon":"./resources/icons/open-in-new.png",       
+            "link":"#"
+        },
+         {
+            "iconfont":true,
+            "class":"devicon-github-original",
+            "link":"#"
+        }
+        ],
+        "description":"This is the fourth project",
+        "icon":""
+    },
+    {
+        "name":"Project5",
+        "links":[{
+            "icon":"./resources/icons/open-in-new.png",       
+            "link":"#"
+        },
+         {
+            "iconfont":true,
+            "class":"devicon-github-original",
+            "link":"#"
+        }
+        ],
+        "description":"This is the fifth project",
+        "icon":""
+    }
+
+]
